@@ -8,4 +8,4 @@ Besides the info already in the dataset, I take the number of words in each line
 
 ## Improvement
 
-I added information about lines happenning before and after each line
+I added information about lines happenning before and after each line. And the accuracy is improved. 
